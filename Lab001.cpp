@@ -1,8 +1,1 @@
-#include <iostream>
-using namespace std;
-
-int main() {
-
-    cout << "Hello world" << endl;
-    return 0;
-}
+git clone https://github.com/username/spinning_donut.git
